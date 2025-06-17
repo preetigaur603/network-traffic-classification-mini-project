@@ -1,0 +1,5 @@
+Destination Port,Flow Duration,Total Fwd Packets,Total Backward Packets,Total Length of Fwd Packets,Total Length of Bwd Packets,Fwd Packet Length Max,Fwd Packet Length Min,Fwd Packet Length Mean,Fwd Packet Length Std,Label
+22,1266342,41,44,2664,6954,456,0,64.97,109.86,BENIGN
+22,1319533,41,44,2664,6954,456,0,64.97,109.86,BENIGN
+22,160,1,1,0,0,0,0,0,0,DoS
+22,1303488,41,42,2728,6634,456,0,66.53,110.12,BENIGN
